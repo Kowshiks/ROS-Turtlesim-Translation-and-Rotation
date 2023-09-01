@@ -24,4 +24,4 @@ I created a ROS node, that calculates the translation vector between turtle1 and
 
 ## Rotation Matrix
 
-![Answer box frame length](rot.jpeg)
+![Answer box frame length](rotation.png)
